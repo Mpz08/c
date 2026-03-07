@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "cook1",
+      "description": "Sizzling Steak on a Pan",
+      "imageUrl": "https://picsum.photos/seed/steak/600/800",
+      "imageHint": "cooking steak"
+    },
+    {
+      "id": "cook2",
+      "description": "Fresh Pasta Making",
+      "imageUrl": "https://picsum.photos/seed/pasta/600/800",
+      "imageHint": "pasta making"
+    },
+    {
+      "id": "cook3",
+      "description": "Vegetable Stir Fry",
+      "imageUrl": "https://picsum.photos/seed/veggies/600/800",
+      "imageHint": "stir fry"
+    },
+    {
+      "id": "cook4",
+      "description": "Baking Cookies",
+      "imageUrl": "https://picsum.photos/seed/baking/600/800",
+      "imageHint": "baking cookies"
+    },
+    {
+      "id": "user1",
+      "description": "Chef Avatar 1",
+      "imageUrl": "https://picsum.photos/seed/chef1/200/200",
+      "imageHint": "chef profile"
+    },
+    {
+      "id": "user2",
+      "description": "Chef Avatar 2",
+      "imageUrl": "https://picsum.photos/seed/chef2/200/200",
+      "imageHint": "woman chef"
+    }
+  ]
+}
