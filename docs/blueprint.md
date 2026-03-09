@@ -6,7 +6,7 @@
 - Cooking Video Upload & Feed: Users can upload their cooking videos, which will be displayed in a scrollable main feed for other users to browse and discover.
 - Engagement Features: Users can interact with posts by liking, disliking, and leaving comments on cooking videos.
 - Following System: Users can follow other users, populating their feed with content from the creators they choose to follow.
-- AI-Powered Content Filtering Tool: An AI tool that automatically assists in flagging and identifying videos that are not related to cooking, improving the efficiency of post reporting.
+- AI-Powered (maybe) Content Filtering Tool: An AI tool that automatically assists in flagging and identifying videos that are not related to cooking, improving the efficiency of post reporting.
 - Post Sharing: Allow users to share interesting cooking video posts with friends and across other platforms.
 - Trending Posts Feed: A dedicated section showcasing popular and trending cooking videos, helping users discover engaging content from the wider community.
 
